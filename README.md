@@ -12,3 +12,12 @@ CC_SHOP 카테고리
 CC_SHOP 상품상세
 ![상품상세](https://user-images.githubusercontent.com/60876477/93018670-62738600-f60c-11ea-8e3e-66ec0fc468c3.PNG)
 ![상품상세재고](https://user-images.githubusercontent.com/60876477/93018675-6acbc100-f60c-11ea-931d-d5e809892c27.PNG)
+
+
+CC_SHOP 관리자
+
+
+![쇼핑몰관리자메인](https://user-images.githubusercontent.com/60876477/93018717-b7170100-f60c-11ea-882a-5067dd48f607.PNG)
+![쇼핑몰관리자상품등록](https://user-images.githubusercontent.com/60876477/93018718-b7af9780-f60c-11ea-94b4-1da36c84fd5c.PNG)
+
+
